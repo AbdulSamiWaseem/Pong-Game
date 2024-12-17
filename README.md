@@ -40,16 +40,3 @@ This project serves as an educational tool to understand the practical applicati
    ./pong
 
 Now, by following these steps in order, you can successfully set up and enjoy the Linux based PONG Game on your machine. Happy gaming!
-
-## Contributors
-
-- Husnain Ali (https://github.com/M-Husnain-Ali)
-
-## Contact Information
-
-For inquiries or support, please contact the project maintainers:
-
-- m.husnainali.work@gmail.com
-
----
-Enjoy playing and exploring the implementation of multithreading and some other advanced OS concepts in this classic Pong game!
