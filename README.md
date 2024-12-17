@@ -2,8 +2,7 @@
 
 ## Overview
 
-Welcome to the Pong Multithreaded Linux C++ Game, an exciting project that brings the classic Pong game to life using advanced OS concepts. This game features two paddles and a ball, each controlled by separate threads, utilizing Linux system calls and SDL2 for graphics. Two human players can control the paddles, and the game includes a scoring system with real-time updates.
-This project serves as an educational tool to understand the practical application of OS concepts in game development, offering both a fun gameplay experience and a robust learning platform.
+With the help of cutting-edge OS ideas, I created the ground-breaking Pong Multithreaded Linux Game in C++, which transforms the traditional Pong game. This project demonstrates how well independent threads for paddle and ball control can be integrated, and it also features sensitive paddle movements and real-time scoring updates. It is a complex teaching tool for multithreading comprehension in addition to providing an engaging game experience.
 
 ## Key Features
 
